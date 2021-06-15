@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>MY Test PHP Page</h1>
+<h1>My Test PHP page</h1>
 
 <?php
 echo "Hello World!";
